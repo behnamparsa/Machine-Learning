@@ -6,6 +6,10 @@
 		{
 			"name": "PythonCourse",
 			"path": "../PythonCourse"
+		},
+		{
+			"name": "Python-and-ML---Active",
+			"path": "../Python-and-ML---Active"
 		}
 	],
 	"settings": {}
