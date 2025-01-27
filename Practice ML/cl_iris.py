@@ -6,7 +6,6 @@ data = ds.load_iris(as_frame = True)
 print(data.keys())
 
 target = data['target']
-
 target_names= data['target_names']
 
 df = data['data']
