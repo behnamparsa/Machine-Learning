@@ -1,0 +1,266 @@
+Sort_Order,Code,Group,Title,Note,ToD_1,ToD_2,ToD_3,Developed_Region,Least_Dev_Country,Sub_Saharan_Africa,Country_Code,Major_Area,M_Code,Region,R_Code
+1,900,WORLD,WORLD,,,,,No,No,No,,,,,
+2,901,Developed regions,Developed regions,(b),,,,No,No,No,,,,,
+3,902,Developing regions,Developing regions,(c),,,,No,No,No,,,,,
+4,941,Least developed countries,Least developed countries,(d),,,,No,No,No,,,,,
+5,934,Less developed regions,Less developed regions excluding least developed countries,,,,,No,No,No,,,,,
+6,947,Sub-Saharan Africa,Sub-Saharan Africa,(e),,,,No,No,No,,,,,
+7,903,Major_Area,Africa,,,,,No,No,No,,Major_Area,903,Africa,903
+8,910,Region,Eastern Africa,,,,,No,No,No,,Africa,903,Eastern Africa,910
+9,108,Country_or_Area,Burundi,,B,R,,No,Yes,Yes,108,Africa,903,Eastern Africa,910
+10,174,Country_or_Area,Comoros,,B,,,No,Yes,Yes,174,Africa,903,Eastern Africa,910
+11,262,Country_or_Area,Djibouti,,B,R,,No,Yes,Yes,262,Africa,903,Eastern Africa,910
+12,232,Country_or_Area,Eritrea,,I,,,No,Yes,Yes,232,Africa,903,Eastern Africa,910
+13,231,Country_or_Area,Ethiopia,,B,R,,No,Yes,Yes,231,Africa,903,Eastern Africa,910
+14,404,Country_or_Area,Kenya,,B,R,,No,No,Yes,404,Africa,903,Eastern Africa,910
+15,450,Country_or_Area,Madagascar,,C,,,No,Yes,Yes,450,Africa,903,Eastern Africa,910
+16,454,Country_or_Area,Malawi,,B,R,,No,Yes,Yes,454,Africa,903,Eastern Africa,910
+17,480,Country_or_Area,Mauritius,(1),C,,,No,No,Yes,480,Africa,903,Eastern Africa,910
+18,175,Country_or_Area,Mayotte,,B,,,No,No,Yes,175,Africa,903,Eastern Africa,910
+19,508,Country_or_Area,Mozambique,,B,R,,No,Yes,Yes,508,Africa,903,Eastern Africa,910
+20,638,Country_or_Area,Réunion,,B,,,No,No,Yes,638,Africa,903,Eastern Africa,910
+21,646,Country_or_Area,Rwanda,,B,R,,No,Yes,Yes,646,Africa,903,Eastern Africa,910
+22,690,Country_or_Area,Seychelles,,B,,,No,No,Yes,690,Africa,903,Eastern Africa,910
+23,706,Country_or_Area,Somalia,,I,R,,No,Yes,Yes,706,Africa,903,Eastern Africa,910
+24,728,Country_or_Area,South Sudan,,B,R,,No,Yes,Yes,728,Africa,903,Eastern Africa,910
+25,800,Country_or_Area,Uganda,,B,R,,No,Yes,Yes,800,Africa,903,Eastern Africa,910
+26,834,Country_or_Area,United Republic of Tanzania,(2),B,R,,No,Yes,Yes,834,Africa,903,Eastern Africa,910
+27,894,Country_or_Area,Zambia,,B,R,,No,Yes,Yes,894,Africa,903,Eastern Africa,910
+28,716,Country_or_Area,Zimbabwe,,B,R,,No,No,Yes,716,Africa,903,Eastern Africa,910
+29,911,Region,Middle Africa,,,,,No,No,No,,Africa,903,Middle Africa,911
+30,24,Country_or_Area,Angola,,B,R,,No,Yes,Yes,24,Africa,903,Middle Africa,911
+31,120,Country_or_Area,Cameroon,,B,,,No,No,Yes,120,Africa,903,Middle Africa,911
+32,140,Country_or_Area,Central African Republic,,C,,,No,Yes,Yes,140,Africa,903,Middle Africa,911
+33,148,Country_or_Area,Chad,,B,R,,No,Yes,Yes,148,Africa,903,Middle Africa,911
+34,178,Country_or_Area,Congo,,B,,,No,No,Yes,178,Africa,903,Middle Africa,911
+35,180,Country_or_Area,Democratic Republic of the Congo,,B,R,,No,Yes,Yes,180,Africa,903,Middle Africa,911
+36,226,Country_or_Area,Equatorial Guinea,,C,,,No,Yes,Yes,226,Africa,903,Middle Africa,911
+37,266,Country_or_Area,Gabon,,C,,,No,No,Yes,266,Africa,903,Middle Africa,911
+38,678,Country_or_Area,Sao Tome and Principe,,C,,,No,Yes,Yes,678,Africa,903,Middle Africa,911
+39,912,Region,Northern Africa,,,,,No,No,No,,Africa,903,Northern Africa,912
+40,12,Country_or_Area,Algeria,,C,R,,No,No,No,12,Africa,903,Northern Africa,912
+41,818,Country_or_Area,Egypt,,B,R,,No,No,No,818,Africa,903,Northern Africa,912
+42,434,Country_or_Area,Libya,,C,,,No,No,No,434,Africa,903,Northern Africa,912
+43,504,Country_or_Area,Morocco,,C,,,No,No,No,504,Africa,903,Northern Africa,912
+44,729,Country_or_Area,Sudan,(3),B,R,,No,Yes,Yes,729,Africa,903,Northern Africa,912
+45,788,Country_or_Area,Tunisia,,C,,,No,No,No,788,Africa,903,Northern Africa,912
+46,732,Country_or_Area,Western Sahara,,I,,,No,No,No,732,Africa,903,Northern Africa,912
+47,913,Region,Southern Africa,,,,,No,No,No,,Africa,903,Southern Africa,913
+48,72,Country_or_Area,Botswana,,C,,,No,No,Yes,72,Africa,903,Southern Africa,913
+49,426,Country_or_Area,Lesotho,,C,R,,No,Yes,Yes,426,Africa,903,Southern Africa,913
+50,516,Country_or_Area,Namibia,,B,,,No,No,Yes,516,Africa,903,Southern Africa,913
+51,710,Country_or_Area,South Africa,,B,R,,No,No,Yes,710,Africa,903,Southern Africa,913
+52,748,Country_or_Area,Swaziland,,B,R,,No,No,Yes,748,Africa,903,Southern Africa,913
+53,914,Region,Western Africa,,,,,No,No,No,,Africa,903,Western Africa,914
+54,204,Country_or_Area,Benin,,C,B,R,No,Yes,Yes,204,Africa,903,Western Africa,914
+55,854,Country_or_Area,Burkina Faso,,B,R,,No,Yes,Yes,854,Africa,903,Western Africa,914
+56,132,Country_or_Area,Cabo Verde,,B,,,No,No,Yes,132,Africa,903,Western Africa,914
+57,384,Country_or_Area,Côte d'Ivoire,,C,B,,No,No,Yes,384,Africa,903,Western Africa,914
+58,270,Country_or_Area,Gambia,,B,,,No,Yes,Yes,270,Africa,903,Western Africa,914
+59,288,Country_or_Area,Ghana,,B,,,No,No,Yes,288,Africa,903,Western Africa,914
+60,324,Country_or_Area,Guinea,,C,R,,No,Yes,Yes,324,Africa,903,Western Africa,914
+61,624,Country_or_Area,Guinea-Bissau,,B,R,,No,Yes,Yes,624,Africa,903,Western Africa,914
+62,430,Country_or_Area,Liberia,,B,,,No,Yes,Yes,430,Africa,903,Western Africa,914
+63,466,Country_or_Area,Mali,,B,R,,No,Yes,Yes,466,Africa,903,Western Africa,914
+64,478,Country_or_Area,Mauritania,,C,R,,No,Yes,Yes,478,Africa,903,Western Africa,914
+65,562,Country_or_Area,Niger,,B,R,,No,Yes,Yes,562,Africa,903,Western Africa,914
+66,566,Country_or_Area,Nigeria,,C,R,,No,No,Yes,566,Africa,903,Western Africa,914
+67,654,Country_or_Area,Saint Helena,(4),B,,,No,No,Yes,654,Africa,903,Western Africa,914
+68,686,Country_or_Area,Senegal,,B,R,,No,Yes,Yes,686,Africa,903,Western Africa,914
+69,694,Country_or_Area,Sierra Leone,,B,R,,No,Yes,Yes,694,Africa,903,Western Africa,914
+70,768,Country_or_Area,Togo,,C,R,,No,Yes,Yes,768,Africa,903,Western Africa,914
+71,935,Major_Area,Asia,,,,,No,No,No,,Major_Area,935,Asia,935
+72,5500,Region,Central Asia,,,,,No,No,No,,Asia,935,Central Asia,5500
+73,398,Country_or_Area,Kazakhstan,,B,,,No,No,No,398,Asia,935,Central Asia,5500
+74,417,Country_or_Area,Kyrgyzstan,,B,,,No,No,No,417,Asia,935,Central Asia,5500
+75,762,Country_or_Area,Tajikistan,,B,,,No,No,No,762,Asia,935,Central Asia,5500
+76,795,Country_or_Area,Turkmenistan,,B,,,No,No,No,795,Asia,935,Central Asia,5500
+77,860,Country_or_Area,Uzbekistan,,B,,,No,No,No,860,Asia,935,Central Asia,5500
+78,906,Region,Eastern Asia,,,,,No,No,No,,Asia,935,Eastern Asia,906
+79,156,Country_or_Area,China,(5),C,,,No,No,No,156,Asia,935,Eastern Asia,906
+80,344,Country_or_Area,"China, Hong Kong Special Administrative Region",(6),B,,,No,No,No,344,Asia,935,Eastern Asia,906
+81,446,Country_or_Area,"China, Macao Special Administrative Region",(7),B,,,No,No,No,446,Asia,935,Eastern Asia,906
+82,408,Country_or_Area,Democratic People's Republic of Korea,,I,,,No,No,No,408,Asia,935,Eastern Asia,906
+83,392,Country_or_Area,Japan,,C,,,Yes,No,No,392,Asia,935,Eastern Asia,906
+84,496,Country_or_Area,Mongolia,,C,,,No,No,No,496,Asia,935,Eastern Asia,906
+85,410,Country_or_Area,Republic of Korea,,C,,,No,No,No,410,Asia,935,Eastern Asia,906
+86,920,Region,South-Eastern Asia,,,,,No,No,No,,Asia,935,South-Eastern Asia,920
+87,96,Country_or_Area,Brunei Darussalam,,B,,,No,No,No,96,Asia,935,South-Eastern Asia,920
+88,116,Country_or_Area,Cambodia,,B,,,No,Yes,No,116,Asia,935,South-Eastern Asia,920
+89,360,Country_or_Area,Indonesia,,B,R,,No,No,No,360,Asia,935,South-Eastern Asia,920
+90,418,Country_or_Area,Lao People's Democratic Republic,,C,R,,No,Yes,No,418,Asia,935,South-Eastern Asia,920
+91,458,Country_or_Area,Malaysia,(8),C,R,,No,No,No,458,Asia,935,South-Eastern Asia,920
+92,104,Country_or_Area,Myanmar,,C,,,No,Yes,No,104,Asia,935,South-Eastern Asia,920
+93,608,Country_or_Area,Philippines,,C,R,,No,No,No,608,Asia,935,South-Eastern Asia,920
+94,702,Country_or_Area,Singapore,,B,,,No,No,No,702,Asia,935,South-Eastern Asia,920
+95,764,Country_or_Area,Thailand,,B,R,,No,No,No,764,Asia,935,South-Eastern Asia,920
+96,626,Country_or_Area,Timor-Leste,,B,,,No,Yes,No,626,Asia,935,South-Eastern Asia,920
+97,704,Country_or_Area,Viet Nam,,C,R,,No,No,No,704,Asia,935,South-Eastern Asia,920
+98,5501,Region,Southern Asia,,,,,No,No,No,,Asia,935,Southern Asia,5501
+99,4,Country_or_Area,Afghanistan,,B,,,No,Yes,No,4,Asia,935,Southern Asia,5501
+100,50,Country_or_Area,Bangladesh,,B,R,,No,Yes,No,50,Asia,935,Southern Asia,5501
+101,64,Country_or_Area,Bhutan,,B,,,No,Yes,No,64,Asia,935,Southern Asia,5501
+102,356,Country_or_Area,India,,B,R,,No,No,No,356,Asia,935,Southern Asia,5501
+103,364,Country_or_Area,Iran (Islamic Republic of),,B,R,,No,No,No,364,Asia,935,Southern Asia,5501
+104,462,Country_or_Area,Maldives,,C,R,,No,No,No,462,Asia,935,Southern Asia,5501
+105,524,Country_or_Area,Nepal,,B,R,,No,Yes,No,524,Asia,935,Southern Asia,5501
+106,586,Country_or_Area,Pakistan,,B,R,,No,No,No,586,Asia,935,Southern Asia,5501
+107,144,Country_or_Area,Sri Lanka,,B,R,,No,No,No,144,Asia,935,Southern Asia,5501
+108,922,Region,Western Asia,,,,,No,No,No,,Asia,935,Western Asia,922
+109,51,Country_or_Area,Armenia,,B,R,,No,No,No,51,Asia,935,Western Asia,922
+110,31,Country_or_Area,Azerbaijan,(9),B,R,,No,No,No,31,Asia,935,Western Asia,922
+111,48,Country_or_Area,Bahrain,,C,,,No,No,No,48,Asia,935,Western Asia,922
+112,196,Country_or_Area,Cyprus,(10),B,,,No,No,No,196,Asia,935,Western Asia,922
+113,268,Country_or_Area,Georgia,(11),B,,,No,No,No,268,Asia,935,Western Asia,922
+114,368,Country_or_Area,Iraq,,C,R,,No,No,No,368,Asia,935,Western Asia,922
+115,376,Country_or_Area,Israel,,B,R,,No,No,No,376,Asia,935,Western Asia,922
+116,400,Country_or_Area,Jordan,,C,R,,No,No,No,400,Asia,935,Western Asia,922
+117,414,Country_or_Area,Kuwait,,C,R,,No,No,No,414,Asia,935,Western Asia,922
+118,422,Country_or_Area,Lebanon,,B,R,,No,No,No,422,Asia,935,Western Asia,922
+119,512,Country_or_Area,Oman,,C,,,No,No,No,512,Asia,935,Western Asia,922
+120,634,Country_or_Area,Qatar,,C,,,No,No,No,634,Asia,935,Western Asia,922
+121,682,Country_or_Area,Saudi Arabia,,C,R,,No,No,No,682,Asia,935,Western Asia,922
+122,275,Country_or_Area,State of Palestine,(12),B,,,No,No,No,275,Asia,935,Western Asia,922
+123,760,Country_or_Area,Syrian Arab Republic,,C,R,,No,No,No,760,Asia,935,Western Asia,922
+124,792,Country_or_Area,Turkey,,B,R,,No,No,No,792,Asia,935,Western Asia,922
+125,784,Country_or_Area,United Arab Emirates,,C,R,,No,No,No,784,Asia,935,Western Asia,922
+126,887,Country_or_Area,Yemen,,C,R,,No,Yes,No,887,Asia,935,Western Asia,922
+127,908,Major_Area,Europe,,,,,No,No,No,,Major_Area,908,Europe,908
+128,923,Region,Eastern Europe,,,,,No,No,No,,Europe,908,Eastern Europe,923
+129,112,Country_or_Area,Belarus,,B,,,Yes,No,No,112,Europe,908,Eastern Europe,923
+130,100,Country_or_Area,Bulgaria,,B,,,Yes,No,No,100,Europe,908,Eastern Europe,923
+131,203,Country_or_Area,Czech Republic,,C,,,Yes,No,No,203,Europe,908,Eastern Europe,923
+132,348,Country_or_Area,Hungary,,B,R,,Yes,No,No,348,Europe,908,Eastern Europe,923
+133,616,Country_or_Area,Poland,,B,,,Yes,No,No,616,Europe,908,Eastern Europe,923
+134,498,Country_or_Area,Republic of Moldova,(13),B,,,Yes,No,No,498,Europe,908,Eastern Europe,923
+135,642,Country_or_Area,Romania,,B,,,Yes,No,No,642,Europe,908,Eastern Europe,923
+136,643,Country_or_Area,Russian Federation,,B,,,Yes,No,No,643,Europe,908,Eastern Europe,923
+137,703,Country_or_Area,Slovakia,,B,,,Yes,No,No,703,Europe,908,Eastern Europe,923
+138,804,Country_or_Area,Ukraine,,B,,,Yes,No,No,804,Europe,908,Eastern Europe,923
+139,924,Region,Northern Europe,,,,,No,No,No,,Europe,908,Northern Europe,924
+140,830,Country_or_Area,Channel Islands,(14),B,,,Yes,No,No,830,Europe,908,Northern Europe,924
+141,208,Country_or_Area,Denmark,,B,,,Yes,No,No,208,Europe,908,Northern Europe,924
+142,233,Country_or_Area,Estonia,,B,,,Yes,No,No,233,Europe,908,Northern Europe,924
+143,234,Country_or_Area,Faeroe Islands,,B,,,Yes,No,No,234,Europe,908,Northern Europe,924
+144,246,Country_or_Area,Finland,(15),B,,,Yes,No,No,246,Europe,908,Northern Europe,924
+145,352,Country_or_Area,Iceland,,B,,,Yes,No,No,352,Europe,908,Northern Europe,924
+146,372,Country_or_Area,Ireland,,B,,,Yes,No,No,372,Europe,908,Northern Europe,924
+147,833,Country_or_Area,Isle of Man,,B,,,Yes,No,No,833,Europe,908,Northern Europe,924
+148,428,Country_or_Area,Latvia,,B,,,Yes,No,No,428,Europe,908,Northern Europe,924
+149,440,Country_or_Area,Lithuania,,B,,,Yes,No,No,440,Europe,908,Northern Europe,924
+150,578,Country_or_Area,Norway,(16),B,,,Yes,No,No,578,Europe,908,Northern Europe,924
+151,752,Country_or_Area,Sweden,,B,,,Yes,No,No,752,Europe,908,Northern Europe,924
+152,826,Country_or_Area,United Kingdom of Great Britain and Northern Ireland,,B,,,Yes,No,No,826,Europe,908,Northern Europe,924
+153,925,Region,Southern Europe,,,,,No,No,No,,Europe,908,Southern Europe,925
+154,8,Country_or_Area,Albania,,B,,,Yes,No,No,8,Europe,908,Southern Europe,925
+155,20,Country_or_Area,Andorra,,C,,,Yes,No,No,20,Europe,908,Southern Europe,925
+156,70,Country_or_Area,Bosnia and Herzegovina,,I,R,,Yes,No,No,70,Europe,908,Southern Europe,925
+157,191,Country_or_Area,Croatia,,B,R,,Yes,No,No,191,Europe,908,Southern Europe,925
+158,292,Country_or_Area,Gibraltar,,B,,,Yes,No,No,292,Europe,908,Southern Europe,925
+159,300,Country_or_Area,Greece,,B,,,Yes,No,No,300,Europe,908,Southern Europe,925
+160,336,Country_or_Area,Holy See,(17),I,,,Yes,No,No,336,Europe,908,Southern Europe,925
+161,380,Country_or_Area,Italy,,B,,,Yes,No,No,380,Europe,908,Southern Europe,925
+162,470,Country_or_Area,Malta,,B,,,Yes,No,No,470,Europe,908,Southern Europe,925
+163,499,Country_or_Area,Montenegro,,B,,,Yes,No,No,499,Europe,908,Southern Europe,925
+164,620,Country_or_Area,Portugal,,B,,,Yes,No,No,620,Europe,908,Southern Europe,925
+165,674,Country_or_Area,San Marino,,B,,,Yes,No,No,674,Europe,908,Southern Europe,925
+166,688,Country_or_Area,Serbia,(18),B,,,Yes,No,No,688,Europe,908,Southern Europe,925
+167,705,Country_or_Area,Slovenia,,B,,,Yes,No,No,705,Europe,908,Southern Europe,925
+168,724,Country_or_Area,Spain,(19),B,,,Yes,No,No,724,Europe,908,Southern Europe,925
+169,807,Country_or_Area,The former Yugoslav Republic of Macedonia,,B,,,Yes,No,No,807,Europe,908,Southern Europe,925
+170,926,Region,Western Europe,,,,,No,No,No,,Europe,908,Western Europe,926
+171,40,Country_or_Area,Austria,,B,,,Yes,No,No,40,Europe,908,Western Europe,926
+172,56,Country_or_Area,Belgium,,C,,,Yes,No,No,56,Europe,908,Western Europe,926
+173,250,Country_or_Area,France,,B,,,Yes,No,No,250,Europe,908,Western Europe,926
+174,276,Country_or_Area,Germany,,B,,,Yes,No,No,276,Europe,908,Western Europe,926
+175,438,Country_or_Area,Liechtenstein,,B,,,Yes,No,No,438,Europe,908,Western Europe,926
+176,442,Country_or_Area,Luxembourg,,B,,,Yes,No,No,442,Europe,908,Western Europe,926
+177,492,Country_or_Area,Monaco,,B,,,Yes,No,No,492,Europe,908,Western Europe,926
+178,528,Country_or_Area,Netherlands,,B,,,Yes,No,No,528,Europe,908,Western Europe,926
+179,756,Country_or_Area,Switzerland,,B,,,Yes,No,No,756,Europe,908,Western Europe,926
+180,904,Major_Area,Latin America and the Caribbean,,,,,No,No,No,,Major_Area,904,Latin America and the Caribbean,904
+181,915,Region,Caribbean,,,,,No,No,No,,Latin America and the Caribbean,904,Caribbean,915
+182,660,Country_or_Area,Anguilla,,B,,,No,No,No,660,Latin America and the Caribbean,904,Caribbean,915
+183,28,Country_or_Area,Antigua and Barbuda,,B,,,No,No,No,28,Latin America and the Caribbean,904,Caribbean,915
+184,533,Country_or_Area,Aruba,,B,,,No,No,No,533,Latin America and the Caribbean,904,Caribbean,915
+185,44,Country_or_Area,Bahamas,,B,,,No,No,No,44,Latin America and the Caribbean,904,Caribbean,915
+186,52,Country_or_Area,Barbados,,B,,,No,No,No,52,Latin America and the Caribbean,904,Caribbean,915
+187,535,Country_or_Area,"Bonaire, Sint Eustatius and Saba",(20),B,,,No,No,No,535,Latin America and the Caribbean,904,Caribbean,915
+188,92,Country_or_Area,British Virgin Islands,,B,,,No,No,No,92,Latin America and the Caribbean,904,Caribbean,915
+189,136,Country_or_Area,Cayman Islands,,C,,,No,No,No,136,Latin America and the Caribbean,904,Caribbean,915
+190,192,Country_or_Area,Cuba,,B,,,No,No,No,192,Latin America and the Caribbean,904,Caribbean,915
+191,531,Country_or_Area,Curaçao,,B,,,No,No,No,531,Latin America and the Caribbean,904,Caribbean,915
+192,212,Country_or_Area,Dominica,,B,,,No,No,No,212,Latin America and the Caribbean,904,Caribbean,915
+193,214,Country_or_Area,Dominican Republic,,B,,,No,No,No,214,Latin America and the Caribbean,904,Caribbean,915
+194,308,Country_or_Area,Grenada,,B,,,No,No,No,308,Latin America and the Caribbean,904,Caribbean,915
+195,312,Country_or_Area,Guadeloupe,(21),B,,,No,No,No,312,Latin America and the Caribbean,904,Caribbean,915
+196,332,Country_or_Area,Haiti,,B,,,No,Yes,No,332,Latin America and the Caribbean,904,Caribbean,915
+197,388,Country_or_Area,Jamaica,,B,,,No,No,No,388,Latin America and the Caribbean,904,Caribbean,915
+198,474,Country_or_Area,Martinique,,B,,,No,No,No,474,Latin America and the Caribbean,904,Caribbean,915
+199,500,Country_or_Area,Montserrat,,B,,,No,No,No,500,Latin America and the Caribbean,904,Caribbean,915
+200,630,Country_or_Area,Puerto Rico,,B,,,No,No,No,630,Latin America and the Caribbean,904,Caribbean,915
+201,659,Country_or_Area,Saint Kitts and Nevis,,B,,,No,No,No,659,Latin America and the Caribbean,904,Caribbean,915
+202,662,Country_or_Area,Saint Lucia,,B,,,No,No,No,662,Latin America and the Caribbean,904,Caribbean,915
+203,670,Country_or_Area,Saint Vincent and the Grenadines,,B,,,No,No,No,670,Latin America and the Caribbean,904,Caribbean,915
+204,534,Country_or_Area,Sint Maarten (Dutch part),,B,,,No,No,No,534,Latin America and the Caribbean,904,Caribbean,915
+205,780,Country_or_Area,Trinidad and Tobago,,B,,,No,No,No,780,Latin America and the Caribbean,904,Caribbean,915
+206,796,Country_or_Area,Turks and Caicos Islands,,B,,,No,No,No,796,Latin America and the Caribbean,904,Caribbean,915
+207,850,Country_or_Area,United States Virgin Islands,,B,,,No,No,No,850,Latin America and the Caribbean,904,Caribbean,915
+208,916,Region,Central America,,,,,No,No,No,,Latin America and the Caribbean,904,Central America,916
+209,84,Country_or_Area,Belize,,B,R,,No,No,No,84,Latin America and the Caribbean,904,Central America,916
+210,188,Country_or_Area,Costa Rica,,B,R,,No,No,No,188,Latin America and the Caribbean,904,Central America,916
+211,222,Country_or_Area,El Salvador,,B,R,,No,No,No,222,Latin America and the Caribbean,904,Central America,916
+212,320,Country_or_Area,Guatemala,,B,R,,No,No,No,320,Latin America and the Caribbean,904,Central America,916
+213,340,Country_or_Area,Honduras,,B,R,,No,No,No,340,Latin America and the Caribbean,904,Central America,916
+214,484,Country_or_Area,Mexico,,B,R,,No,No,No,484,Latin America and the Caribbean,904,Central America,916
+215,558,Country_or_Area,Nicaragua,,B,R,,No,No,No,558,Latin America and the Caribbean,904,Central America,916
+216,591,Country_or_Area,Panama,,B,,,No,No,No,591,Latin America and the Caribbean,904,Central America,916
+217,931,Region,South America,,,,,No,No,No,,Latin America and the Caribbean,904,South America,931
+218,32,Country_or_Area,Argentina,,B,,,No,No,No,32,Latin America and the Caribbean,904,South America,931
+219,68,Country_or_Area,Bolivia (Plurinational State of),,B,,,No,No,No,68,Latin America and the Caribbean,904,South America,931
+220,76,Country_or_Area,Brazil,,B,,,No,No,No,76,Latin America and the Caribbean,904,South America,931
+221,152,Country_or_Area,Chile,,B,,,No,No,No,152,Latin America and the Caribbean,904,South America,931
+222,170,Country_or_Area,Colombia,,B,,,No,No,No,170,Latin America and the Caribbean,904,South America,931
+223,218,Country_or_Area,Ecuador,,B,R,,No,No,No,218,Latin America and the Caribbean,904,South America,931
+224,238,Country_or_Area,Falkland Islands (Malvinas),,B,,,No,No,No,238,Latin America and the Caribbean,904,South America,931
+225,254,Country_or_Area,French Guiana,,B,,,No,No,No,254,Latin America and the Caribbean,904,South America,931
+226,328,Country_or_Area,Guyana,,B,,,No,No,No,328,Latin America and the Caribbean,904,South America,931
+227,600,Country_or_Area,Paraguay,,B,,,No,No,No,600,Latin America and the Caribbean,904,South America,931
+228,604,Country_or_Area,Peru,,B,,,No,No,No,604,Latin America and the Caribbean,904,South America,931
+229,740,Country_or_Area,Suriname,,C,,,No,No,No,740,Latin America and the Caribbean,904,South America,931
+230,858,Country_or_Area,Uruguay,,B,,,No,No,No,858,Latin America and the Caribbean,904,South America,931
+231,862,Country_or_Area,Venezuela (Bolivarian Republic of),,B,,,No,No,No,862,Latin America and the Caribbean,904,South America,931
+232,905,Region,Northern America,,,,,No,No,No,,Northern America,905,Northern America,905
+233,60,Country_or_Area,Bermuda,,B,,,Yes,No,No,60,Northern America,905,Northern America,905
+234,124,Country_or_Area,Canada,,B,,,Yes,No,No,124,Northern America,905,Northern America,905
+235,304,Country_or_Area,Greenland,,B,,,Yes,No,No,304,Northern America,905,Northern America,905
+236,666,Country_or_Area,Saint Pierre and Miquelon,,B,,,Yes,No,No,666,Northern America,905,Northern America,905
+237,840,Country_or_Area,United States of America,,B,,,Yes,No,No,840,Northern America,905,Northern America,905
+238,909,Major_Area,Oceania,,,,,No,No,No,,Major_Area,909,Oceania,909
+239,927,Region,Australia and New Zealand,,,,,No,No,No,,Oceania,909,Australia and New Zealand,927
+240,36,Country_or_Area,Australia,(22),B,,,Yes,No,No,36,Oceania,909,Australia and New Zealand,927
+241,554,Country_or_Area,New Zealand,,B,,,Yes,No,No,554,Oceania,909,Australia and New Zealand,927
+242,928,Region,Melanesia,,,,,No,No,No,,Oceania,909,Melanesia,928
+243,242,Country_or_Area,Fiji,,B,,,No,No,No,242,Oceania,909,Melanesia,928
+244,540,Country_or_Area,New Caledonia,,B,,,No,No,No,540,Oceania,909,Melanesia,928
+245,598,Country_or_Area,Papua New Guinea,,C,R,,No,No,No,598,Oceania,909,Melanesia,928
+246,90,Country_or_Area,Solomon Islands,,B,,,No,Yes,No,90,Oceania,909,Melanesia,928
+247,548,Country_or_Area,Vanuatu,,B,,,No,Yes,No,548,Oceania,909,Melanesia,928
+248,954,Region,Micronesia,,,,,No,No,No,,Oceania,909,Micronesia,954
+249,316,Country_or_Area,Guam,,B,,,No,No,No,316,Oceania,909,Micronesia,954
+250,296,Country_or_Area,Kiribati,,B,,,No,Yes,No,296,Oceania,909,Micronesia,954
+251,584,Country_or_Area,Marshall Islands,,B,,,No,No,No,584,Oceania,909,Micronesia,954
+252,583,Country_or_Area,Micronesia (Federated States of),,B,,,No,No,No,583,Oceania,909,Micronesia,954
+253,520,Country_or_Area,Nauru,,C,,,No,No,No,520,Oceania,909,Micronesia,954
+254,580,Country_or_Area,Northern Mariana Islands,,B,,,No,No,No,580,Oceania,909,Micronesia,954
+255,585,Country_or_Area,Palau,,B,,,No,No,No,585,Oceania,909,Micronesia,954
+256,957,Region,Polynesia,,,,,No,No,No,,Oceania,909,Polynesia,957
+257,16,Country_or_Area,American Samoa,,B,,,No,No,No,16,Oceania,909,Polynesia,957
+258,184,Country_or_Area,Cook Islands,,B,,,No,No,No,184,Oceania,909,Polynesia,957
+259,258,Country_or_Area,French Polynesia,,B,,,No,No,No,258,Oceania,909,Polynesia,957
+260,570,Country_or_Area,Niue,,B,,,No,No,No,570,Oceania,909,Polynesia,957
+261,882,Country_or_Area,Samoa,,B,,,No,No,No,882,Oceania,909,Polynesia,957
+262,772,Country_or_Area,Tokelau,,B,,,No,No,No,772,Oceania,909,Polynesia,957
+263,776,Country_or_Area,Tonga,,B,,,No,No,No,776,Oceania,909,Polynesia,957
+264,798,Country_or_Area,Tuvalu,,C,,,No,Yes,No,798,Oceania,909,Polynesia,957
+265,876,Country_or_Area,Wallis and Futuna Islands,,B,,,No,No,No,876,Oceania,909,Polynesia,957

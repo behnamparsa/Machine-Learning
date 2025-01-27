@@ -1,0 +1,266 @@
+,Sort_Order,Code,Group,Title,Note,ToD_1,ToD_2,ToD_3,Developed_Region,Least_Dev_Country,Sub_Saharan_Africa
+0,1,900,WORLD,WORLD,,,,,No,No,No
+1,2,901,Developed regions,Developed regions,(b),,,,No,No,No
+2,3,902,Developing regions,Developing regions,(c),,,,No,No,No
+3,4,941,Least developed countries,Least developed countries,(d),,,,No,No,No
+4,5,934,Less developed regions,Less developed regions excluding least developed countries,,,,,No,No,No
+5,6,947,Sub-Saharan Africa,Sub-Saharan Africa,(e),,,,No,No,No
+6,7,903,Major_Area,Africa,,,,,No,No,No
+7,8,910,Region,Eastern Africa,,,,,No,No,No
+8,9,108,Country_or_Area,Burundi,,B,R,,No,Yes,Yes
+9,10,174,Country_or_Area,Comoros,,B,,,No,Yes,Yes
+10,11,262,Country_or_Area,Djibouti,,B,R,,No,Yes,Yes
+11,12,232,Country_or_Area,Eritrea,,I,,,No,Yes,Yes
+12,13,231,Country_or_Area,Ethiopia,,B,R,,No,Yes,Yes
+13,14,404,Country_or_Area,Kenya,,B,R,,No,No,Yes
+14,15,450,Country_or_Area,Madagascar,,C,,,No,Yes,Yes
+15,16,454,Country_or_Area,Malawi,,B,R,,No,Yes,Yes
+16,17,480,Country_or_Area,Mauritius,(1),C,,,No,No,Yes
+17,18,175,Country_or_Area,Mayotte,,B,,,No,No,Yes
+18,19,508,Country_or_Area,Mozambique,,B,R,,No,Yes,Yes
+19,20,638,Country_or_Area,Réunion,,B,,,No,No,Yes
+20,21,646,Country_or_Area,Rwanda,,B,R,,No,Yes,Yes
+21,22,690,Country_or_Area,Seychelles,,B,,,No,No,Yes
+22,23,706,Country_or_Area,Somalia,,I,R,,No,Yes,Yes
+23,24,728,Country_or_Area,South Sudan,,B,R,,No,Yes,Yes
+24,25,800,Country_or_Area,Uganda,,B,R,,No,Yes,Yes
+25,26,834,Country_or_Area,United Republic of Tanzania,(2),B,R,,No,Yes,Yes
+26,27,894,Country_or_Area,Zambia,,B,R,,No,Yes,Yes
+27,28,716,Country_or_Area,Zimbabwe,,B,R,,No,No,Yes
+28,29,911,Region,Middle Africa,,,,,No,No,No
+29,30,24,Country_or_Area,Angola,,B,R,,No,Yes,Yes
+30,31,120,Country_or_Area,Cameroon,,B,,,No,No,Yes
+31,32,140,Country_or_Area,Central African Republic,,C,,,No,Yes,Yes
+32,33,148,Country_or_Area,Chad,,B,R,,No,Yes,Yes
+33,34,178,Country_or_Area,Congo,,B,,,No,No,Yes
+34,35,180,Country_or_Area,Democratic Republic of the Congo,,B,R,,No,Yes,Yes
+35,36,226,Country_or_Area,Equatorial Guinea,,C,,,No,Yes,Yes
+36,37,266,Country_or_Area,Gabon,,C,,,No,No,Yes
+37,38,678,Country_or_Area,Sao Tome and Principe,,C,,,No,Yes,Yes
+38,39,912,Region,Northern Africa,,,,,No,No,No
+39,40,12,Country_or_Area,Algeria,,C,R,,No,No,No
+40,41,818,Country_or_Area,Egypt,,B,R,,No,No,No
+41,42,434,Country_or_Area,Libya,,C,,,No,No,No
+42,43,504,Country_or_Area,Morocco,,C,,,No,No,No
+43,44,729,Country_or_Area,Sudan,(3),B,R,,No,Yes,Yes
+44,45,788,Country_or_Area,Tunisia,,C,,,No,No,No
+45,46,732,Country_or_Area,Western Sahara,,I,,,No,No,No
+46,47,913,Region,Southern Africa,,,,,No,No,No
+47,48,72,Country_or_Area,Botswana,,C,,,No,No,Yes
+48,49,426,Country_or_Area,Lesotho,,C,R,,No,Yes,Yes
+49,50,516,Country_or_Area,Namibia,,B,,,No,No,Yes
+50,51,710,Country_or_Area,South Africa,,B,R,,No,No,Yes
+51,52,748,Country_or_Area,Swaziland,,B,R,,No,No,Yes
+52,53,914,Region,Western Africa,,,,,No,No,No
+53,54,204,Country_or_Area,Benin,,C,B,R,No,Yes,Yes
+54,55,854,Country_or_Area,Burkina Faso,,B,R,,No,Yes,Yes
+55,56,132,Country_or_Area,Cabo Verde,,B,,,No,No,Yes
+56,57,384,Country_or_Area,Côte d'Ivoire,,C,B,,No,No,Yes
+57,58,270,Country_or_Area,Gambia,,B,,,No,Yes,Yes
+58,59,288,Country_or_Area,Ghana,,B,,,No,No,Yes
+59,60,324,Country_or_Area,Guinea,,C,R,,No,Yes,Yes
+60,61,624,Country_or_Area,Guinea-Bissau,,B,R,,No,Yes,Yes
+61,62,430,Country_or_Area,Liberia,,B,,,No,Yes,Yes
+62,63,466,Country_or_Area,Mali,,B,R,,No,Yes,Yes
+63,64,478,Country_or_Area,Mauritania,,C,R,,No,Yes,Yes
+64,65,562,Country_or_Area,Niger,,B,R,,No,Yes,Yes
+65,66,566,Country_or_Area,Nigeria,,C,R,,No,No,Yes
+66,67,654,Country_or_Area,Saint Helena,(4),B,,,No,No,Yes
+67,68,686,Country_or_Area,Senegal,,B,R,,No,Yes,Yes
+68,69,694,Country_or_Area,Sierra Leone,,B,R,,No,Yes,Yes
+69,70,768,Country_or_Area,Togo,,C,R,,No,Yes,Yes
+70,71,935,Major_Area,Asia,,,,,No,No,No
+71,72,5500,Region,Central Asia,,,,,No,No,No
+72,73,398,Country_or_Area,Kazakhstan,,B,,,No,No,No
+73,74,417,Country_or_Area,Kyrgyzstan,,B,,,No,No,No
+74,75,762,Country_or_Area,Tajikistan,,B,,,No,No,No
+75,76,795,Country_or_Area,Turkmenistan,,B,,,No,No,No
+76,77,860,Country_or_Area,Uzbekistan,,B,,,No,No,No
+77,78,906,Region,Eastern Asia,,,,,No,No,No
+78,79,156,Country_or_Area,China,(5),C,,,No,No,No
+79,80,344,Country_or_Area,"China, Hong Kong Special Administrative Region",(6),B,,,No,No,No
+80,81,446,Country_or_Area,"China, Macao Special Administrative Region",(7),B,,,No,No,No
+81,82,408,Country_or_Area,Democratic People's Republic of Korea,,I,,,No,No,No
+82,83,392,Country_or_Area,Japan,,C,,,Yes,No,No
+83,84,496,Country_or_Area,Mongolia,,C,,,No,No,No
+84,85,410,Country_or_Area,Republic of Korea,,C,,,No,No,No
+85,86,920,Region,South-Eastern Asia,,,,,No,No,No
+86,87,96,Country_or_Area,Brunei Darussalam,,B,,,No,No,No
+87,88,116,Country_or_Area,Cambodia,,B,,,No,Yes,No
+88,89,360,Country_or_Area,Indonesia,,B,R,,No,No,No
+89,90,418,Country_or_Area,Lao People's Democratic Republic,,C,R,,No,Yes,No
+90,91,458,Country_or_Area,Malaysia,(8),C,R,,No,No,No
+91,92,104,Country_or_Area,Myanmar,,C,,,No,Yes,No
+92,93,608,Country_or_Area,Philippines,,C,R,,No,No,No
+93,94,702,Country_or_Area,Singapore,,B,,,No,No,No
+94,95,764,Country_or_Area,Thailand,,B,R,,No,No,No
+95,96,626,Country_or_Area,Timor-Leste,,B,,,No,Yes,No
+96,97,704,Country_or_Area,Viet Nam,,C,R,,No,No,No
+97,98,5501,Region,Southern Asia,,,,,No,No,No
+98,99,4,Country_or_Area,Afghanistan,,B,,,No,Yes,No
+99,100,50,Country_or_Area,Bangladesh,,B,R,,No,Yes,No
+100,101,64,Country_or_Area,Bhutan,,B,,,No,Yes,No
+101,102,356,Country_or_Area,India,,B,R,,No,No,No
+102,103,364,Country_or_Area,Iran (Islamic Republic of),,B,R,,No,No,No
+103,104,462,Country_or_Area,Maldives,,C,R,,No,No,No
+104,105,524,Country_or_Area,Nepal,,B,R,,No,Yes,No
+105,106,586,Country_or_Area,Pakistan,,B,R,,No,No,No
+106,107,144,Country_or_Area,Sri Lanka,,B,R,,No,No,No
+107,108,922,Region,Western Asia,,,,,No,No,No
+108,109,51,Country_or_Area,Armenia,,B,R,,No,No,No
+109,110,31,Country_or_Area,Azerbaijan,(9),B,R,,No,No,No
+110,111,48,Country_or_Area,Bahrain,,C,,,No,No,No
+111,112,196,Country_or_Area,Cyprus,(10),B,,,No,No,No
+112,113,268,Country_or_Area,Georgia,(11),B,,,No,No,No
+113,114,368,Country_or_Area,Iraq,,C,R,,No,No,No
+114,115,376,Country_or_Area,Israel,,B,R,,No,No,No
+115,116,400,Country_or_Area,Jordan,,C,R,,No,No,No
+116,117,414,Country_or_Area,Kuwait,,C,R,,No,No,No
+117,118,422,Country_or_Area,Lebanon,,B,R,,No,No,No
+118,119,512,Country_or_Area,Oman,,C,,,No,No,No
+119,120,634,Country_or_Area,Qatar,,C,,,No,No,No
+120,121,682,Country_or_Area,Saudi Arabia,,C,R,,No,No,No
+121,122,275,Country_or_Area,State of Palestine,(12),B,,,No,No,No
+122,123,760,Country_or_Area,Syrian Arab Republic,,C,R,,No,No,No
+123,124,792,Country_or_Area,Turkey,,B,R,,No,No,No
+124,125,784,Country_or_Area,United Arab Emirates,,C,R,,No,No,No
+125,126,887,Country_or_Area,Yemen,,C,R,,No,Yes,No
+126,127,908,Major_Area,Europe,,,,,No,No,No
+127,128,923,Region,Eastern Europe,,,,,No,No,No
+128,129,112,Country_or_Area,Belarus,,B,,,Yes,No,No
+129,130,100,Country_or_Area,Bulgaria,,B,,,Yes,No,No
+130,131,203,Country_or_Area,Czech Republic,,C,,,Yes,No,No
+131,132,348,Country_or_Area,Hungary,,B,R,,Yes,No,No
+132,133,616,Country_or_Area,Poland,,B,,,Yes,No,No
+133,134,498,Country_or_Area,Republic of Moldova,(13),B,,,Yes,No,No
+134,135,642,Country_or_Area,Romania,,B,,,Yes,No,No
+135,136,643,Country_or_Area,Russian Federation,,B,,,Yes,No,No
+136,137,703,Country_or_Area,Slovakia,,B,,,Yes,No,No
+137,138,804,Country_or_Area,Ukraine,,B,,,Yes,No,No
+138,139,924,Region,Northern Europe,,,,,No,No,No
+139,140,830,Country_or_Area,Channel Islands,(14),B,,,Yes,No,No
+140,141,208,Country_or_Area,Denmark,,B,,,Yes,No,No
+141,142,233,Country_or_Area,Estonia,,B,,,Yes,No,No
+142,143,234,Country_or_Area,Faeroe Islands,,B,,,Yes,No,No
+143,144,246,Country_or_Area,Finland,(15),B,,,Yes,No,No
+144,145,352,Country_or_Area,Iceland,,B,,,Yes,No,No
+145,146,372,Country_or_Area,Ireland,,B,,,Yes,No,No
+146,147,833,Country_or_Area,Isle of Man,,B,,,Yes,No,No
+147,148,428,Country_or_Area,Latvia,,B,,,Yes,No,No
+148,149,440,Country_or_Area,Lithuania,,B,,,Yes,No,No
+149,150,578,Country_or_Area,Norway,(16),B,,,Yes,No,No
+150,151,752,Country_or_Area,Sweden,,B,,,Yes,No,No
+151,152,826,Country_or_Area,United Kingdom of Great Britain and Northern Ireland,,B,,,Yes,No,No
+152,153,925,Region,Southern Europe,,,,,No,No,No
+153,154,8,Country_or_Area,Albania,,B,,,Yes,No,No
+154,155,20,Country_or_Area,Andorra,,C,,,Yes,No,No
+155,156,70,Country_or_Area,Bosnia and Herzegovina,,I,R,,Yes,No,No
+156,157,191,Country_or_Area,Croatia,,B,R,,Yes,No,No
+157,158,292,Country_or_Area,Gibraltar,,B,,,Yes,No,No
+158,159,300,Country_or_Area,Greece,,B,,,Yes,No,No
+159,160,336,Country_or_Area,Holy See,(17),I,,,Yes,No,No
+160,161,380,Country_or_Area,Italy,,B,,,Yes,No,No
+161,162,470,Country_or_Area,Malta,,B,,,Yes,No,No
+162,163,499,Country_or_Area,Montenegro,,B,,,Yes,No,No
+163,164,620,Country_or_Area,Portugal,,B,,,Yes,No,No
+164,165,674,Country_or_Area,San Marino,,B,,,Yes,No,No
+165,166,688,Country_or_Area,Serbia,(18),B,,,Yes,No,No
+166,167,705,Country_or_Area,Slovenia,,B,,,Yes,No,No
+167,168,724,Country_or_Area,Spain,(19),B,,,Yes,No,No
+168,169,807,Country_or_Area,The former Yugoslav Republic of Macedonia,,B,,,Yes,No,No
+169,170,926,Region,Western Europe,,,,,No,No,No
+170,171,40,Country_or_Area,Austria,,B,,,Yes,No,No
+171,172,56,Country_or_Area,Belgium,,C,,,Yes,No,No
+172,173,250,Country_or_Area,France,,B,,,Yes,No,No
+173,174,276,Country_or_Area,Germany,,B,,,Yes,No,No
+174,175,438,Country_or_Area,Liechtenstein,,B,,,Yes,No,No
+175,176,442,Country_or_Area,Luxembourg,,B,,,Yes,No,No
+176,177,492,Country_or_Area,Monaco,,B,,,Yes,No,No
+177,178,528,Country_or_Area,Netherlands,,B,,,Yes,No,No
+178,179,756,Country_or_Area,Switzerland,,B,,,Yes,No,No
+179,180,904,Major_Area,Latin America and the Caribbean,,,,,No,No,No
+180,181,915,Region,Caribbean,,,,,No,No,No
+181,182,660,Country_or_Area,Anguilla,,B,,,No,No,No
+182,183,28,Country_or_Area,Antigua and Barbuda,,B,,,No,No,No
+183,184,533,Country_or_Area,Aruba,,B,,,No,No,No
+184,185,44,Country_or_Area,Bahamas,,B,,,No,No,No
+185,186,52,Country_or_Area,Barbados,,B,,,No,No,No
+186,187,535,Country_or_Area,"Bonaire, Sint Eustatius and Saba",(20),B,,,No,No,No
+187,188,92,Country_or_Area,British Virgin Islands,,B,,,No,No,No
+188,189,136,Country_or_Area,Cayman Islands,,C,,,No,No,No
+189,190,192,Country_or_Area,Cuba,,B,,,No,No,No
+190,191,531,Country_or_Area,Curaçao,,B,,,No,No,No
+191,192,212,Country_or_Area,Dominica,,B,,,No,No,No
+192,193,214,Country_or_Area,Dominican Republic,,B,,,No,No,No
+193,194,308,Country_or_Area,Grenada,,B,,,No,No,No
+194,195,312,Country_or_Area,Guadeloupe,(21),B,,,No,No,No
+195,196,332,Country_or_Area,Haiti,,B,,,No,Yes,No
+196,197,388,Country_or_Area,Jamaica,,B,,,No,No,No
+197,198,474,Country_or_Area,Martinique,,B,,,No,No,No
+198,199,500,Country_or_Area,Montserrat,,B,,,No,No,No
+199,200,630,Country_or_Area,Puerto Rico,,B,,,No,No,No
+200,201,659,Country_or_Area,Saint Kitts and Nevis,,B,,,No,No,No
+201,202,662,Country_or_Area,Saint Lucia,,B,,,No,No,No
+202,203,670,Country_or_Area,Saint Vincent and the Grenadines,,B,,,No,No,No
+203,204,534,Country_or_Area,Sint Maarten (Dutch part),,B,,,No,No,No
+204,205,780,Country_or_Area,Trinidad and Tobago,,B,,,No,No,No
+205,206,796,Country_or_Area,Turks and Caicos Islands,,B,,,No,No,No
+206,207,850,Country_or_Area,United States Virgin Islands,,B,,,No,No,No
+207,208,916,Region,Central America,,,,,No,No,No
+208,209,84,Country_or_Area,Belize,,B,R,,No,No,No
+209,210,188,Country_or_Area,Costa Rica,,B,R,,No,No,No
+210,211,222,Country_or_Area,El Salvador,,B,R,,No,No,No
+211,212,320,Country_or_Area,Guatemala,,B,R,,No,No,No
+212,213,340,Country_or_Area,Honduras,,B,R,,No,No,No
+213,214,484,Country_or_Area,Mexico,,B,R,,No,No,No
+214,215,558,Country_or_Area,Nicaragua,,B,R,,No,No,No
+215,216,591,Country_or_Area,Panama,,B,,,No,No,No
+216,217,931,Region,South America,,,,,No,No,No
+217,218,32,Country_or_Area,Argentina,,B,,,No,No,No
+218,219,68,Country_or_Area,Bolivia (Plurinational State of),,B,,,No,No,No
+219,220,76,Country_or_Area,Brazil,,B,,,No,No,No
+220,221,152,Country_or_Area,Chile,,B,,,No,No,No
+221,222,170,Country_or_Area,Colombia,,B,,,No,No,No
+222,223,218,Country_or_Area,Ecuador,,B,R,,No,No,No
+223,224,238,Country_or_Area,Falkland Islands (Malvinas),,B,,,No,No,No
+224,225,254,Country_or_Area,French Guiana,,B,,,No,No,No
+225,226,328,Country_or_Area,Guyana,,B,,,No,No,No
+226,227,600,Country_or_Area,Paraguay,,B,,,No,No,No
+227,228,604,Country_or_Area,Peru,,B,,,No,No,No
+228,229,740,Country_or_Area,Suriname,,C,,,No,No,No
+229,230,858,Country_or_Area,Uruguay,,B,,,No,No,No
+230,231,862,Country_or_Area,Venezuela (Bolivarian Republic of),,B,,,No,No,No
+231,232,905,Region,Northern America,,,,,No,No,No
+232,233,60,Country_or_Area,Bermuda,,B,,,Yes,No,No
+233,234,124,Country_or_Area,Canada,,B,,,Yes,No,No
+234,235,304,Country_or_Area,Greenland,,B,,,Yes,No,No
+235,236,666,Country_or_Area,Saint Pierre and Miquelon,,B,,,Yes,No,No
+236,237,840,Country_or_Area,United States of America,,B,,,Yes,No,No
+237,238,909,Major_Area,Oceania,,,,,No,No,No
+238,239,927,Region,Australia and New Zealand,,,,,No,No,No
+239,240,36,Country_or_Area,Australia,(22),B,,,Yes,No,No
+240,241,554,Country_or_Area,New Zealand,,B,,,Yes,No,No
+241,242,928,Region,Melanesia,,,,,No,No,No
+242,243,242,Country_or_Area,Fiji,,B,,,No,No,No
+243,244,540,Country_or_Area,New Caledonia,,B,,,No,No,No
+244,245,598,Country_or_Area,Papua New Guinea,,C,R,,No,No,No
+245,246,90,Country_or_Area,Solomon Islands,,B,,,No,Yes,No
+246,247,548,Country_or_Area,Vanuatu,,B,,,No,Yes,No
+247,248,954,Region,Micronesia,,,,,No,No,No
+248,249,316,Country_or_Area,Guam,,B,,,No,No,No
+249,250,296,Country_or_Area,Kiribati,,B,,,No,Yes,No
+250,251,584,Country_or_Area,Marshall Islands,,B,,,No,No,No
+251,252,583,Country_or_Area,Micronesia (Federated States of),,B,,,No,No,No
+252,253,520,Country_or_Area,Nauru,,C,,,No,No,No
+253,254,580,Country_or_Area,Northern Mariana Islands,,B,,,No,No,No
+254,255,585,Country_or_Area,Palau,,B,,,No,No,No
+255,256,957,Region,Polynesia,,,,,No,No,No
+256,257,16,Country_or_Area,American Samoa,,B,,,No,No,No
+257,258,184,Country_or_Area,Cook Islands,,B,,,No,No,No
+258,259,258,Country_or_Area,French Polynesia,,B,,,No,No,No
+259,260,570,Country_or_Area,Niue,,B,,,No,No,No
+260,261,882,Country_or_Area,Samoa,,B,,,No,No,No
+261,262,772,Country_or_Area,Tokelau,,B,,,No,No,No
+262,263,776,Country_or_Area,Tonga,,B,,,No,No,No
+263,264,798,Country_or_Area,Tuvalu,,C,,,No,Yes,No
+264,265,876,Country_or_Area,Wallis and Futuna Islands,,B,,,No,No,No

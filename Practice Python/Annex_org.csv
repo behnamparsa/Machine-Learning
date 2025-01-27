@@ -1,0 +1,233 @@
+,Country_Code,Country_or_Area,C_Sort_Order,Major_Area,M_Code,M_Sort_Order,Region,R_Code,R_Sort_Order,Developed_Region,Least_Dev_Country,Sub_Saharan_Africa
+0,4,Afghanistan,99,Asia,935,71,Southern Asia,5501,98,No,Yes,No
+1,8,Albania,154,Europe,908,127,Southern Europe,925,153,Yes,No,No
+2,12,Algeria,40,Africa,903,7,Northern Africa,912,39,No,No,No
+3,16,American Samoa,257,Oceania,909,238,Polynesia,957,256,No,No,No
+4,20,Andorra,155,Europe,908,127,Southern Europe,925,153,Yes,No,No
+5,24,Angola,30,Africa,903,7,Middle Africa,911,29,No,Yes,Yes
+6,660,Anguilla,182,Latin America and the Caribbean,904,180,Caribbean,915,181,No,No,No
+7,28,Antigua and Barbuda,183,Latin America and the Caribbean,904,180,Caribbean,915,181,No,No,No
+8,32,Argentina,218,Latin America and the Caribbean,904,180,South America,931,217,No,No,No
+9,51,Armenia,109,Asia,935,71,Western Asia,922,108,No,No,No
+10,533,Aruba,184,Latin America and the Caribbean,904,180,Caribbean,915,181,No,No,No
+11,36,Australia,240,Oceania,909,238,Australia and New Zealand,927,239,Yes,No,No
+12,40,Austria,171,Europe,908,127,Western Europe,926,170,Yes,No,No
+13,31,Azerbaijan,110,Asia,935,71,Western Asia,922,108,No,No,No
+14,44,Bahamas,185,Latin America and the Caribbean,904,180,Caribbean,915,181,No,No,No
+15,48,Bahrain,111,Asia,935,71,Western Asia,922,108,No,No,No
+16,50,Bangladesh,100,Asia,935,71,Southern Asia,5501,98,No,Yes,No
+17,52,Barbados,186,Latin America and the Caribbean,904,180,Caribbean,915,181,No,No,No
+18,112,Belarus,129,Europe,908,127,Eastern Europe,923,128,Yes,No,No
+19,56,Belgium,172,Europe,908,127,Western Europe,926,170,Yes,No,No
+20,84,Belize,209,Latin America and the Caribbean,904,180,Central America,916,208,No,No,No
+21,204,Benin,54,Africa,903,7,Western Africa,914,53,No,Yes,Yes
+22,60,Bermuda,233,Northern America,905,232,Northern America,905,232,Yes,No,No
+23,64,Bhutan,101,Asia,935,71,Southern Asia,5501,98,No,Yes,No
+24,68,Bolivia (Plurinational State of),219,Latin America and the Caribbean,904,180,South America,931,217,No,No,No
+25,70,Bosnia and Herzegovina,156,Europe,908,127,Southern Europe,925,153,Yes,No,No
+26,72,Botswana,48,Africa,903,7,Southern Africa,913,47,No,No,Yes
+27,76,Brazil,220,Latin America and the Caribbean,904,180,South America,931,217,No,No,No
+28,92,British Virgin Islands,187,Latin America and the Caribbean,904,180,Caribbean,915,181,No,No,No
+29,96,Brunei Darussalam,87,Asia,935,71,South-Eastern Asia,920,86,No,No,No
+30,100,Bulgaria,130,Europe,908,127,Eastern Europe,923,128,Yes,No,No
+31,854,Burkina Faso,55,Africa,903,7,Western Africa,914,53,No,Yes,Yes
+32,108,Burundi,9,Africa,903,7,Eastern Africa,910,8,No,Yes,Yes
+33,116,Cambodia,88,Asia,935,71,South-Eastern Asia,920,86,No,Yes,No
+34,120,Cameroon,31,Africa,903,7,Middle Africa,911,29,No,No,Yes
+35,124,Canada,234,Northern America,905,232,Northern America,905,232,Yes,No,No
+36,132,Cabo Verde,56,Africa,903,7,Western Africa,914,53,No,No,Yes
+37,535,"Bonaire, Sint Eustatius and Saba",188,Latin America and the Caribbean,904,180,Caribbean,915,181,No,No,No
+38,136,Cayman Islands,189,Latin America and the Caribbean,904,180,Caribbean,915,181,No,No,No
+39,140,Central African Republic,32,Africa,903,7,Middle Africa,911,29,No,Yes,Yes
+40,148,Chad,33,Africa,903,7,Middle Africa,911,29,No,Yes,Yes
+41,830,Channel Islands,140,Europe,908,127,Northern Europe,924,139,Yes,No,No
+42,152,Chile,221,Latin America and the Caribbean,904,180,South America,931,217,No,No,No
+43,156,China,79,Asia,935,71,Eastern Asia,906,78,No,No,No
+44,344,"China, Hong Kong Special Administrative Region",81,Asia,935,71,Eastern Asia,906,78,No,No,No
+45,446,"China, Macao Special Administrative Region",83,Asia,935,71,Eastern Asia,906,78,No,No,No
+46,170,Colombia,222,Latin America and the Caribbean,904,180,South America,931,217,No,No,No
+47,174,Comoros,10,Africa,903,7,Eastern Africa,910,8,No,Yes,Yes
+48,178,Congo,34,Africa,903,7,Middle Africa,911,29,No,No,Yes
+49,184,Cook Islands,258,Oceania,909,238,Polynesia,957,256,No,No,No
+50,188,Costa Rica,210,Latin America and the Caribbean,904,180,Central America,916,208,No,No,No
+51,384,Côte d'Ivoire,57,Africa,903,7,Western Africa,914,53,No,No,Yes
+52,191,Croatia,157,Europe,908,127,Southern Europe,925,153,Yes,No,No
+53,192,Cuba,190,Latin America and the Caribbean,904,180,Caribbean,915,181,No,No,No
+54,531,Curaçao,191,Latin America and the Caribbean,904,180,Caribbean,915,181,No,No,No
+55,196,Cyprus,112,Asia,935,71,Western Asia,922,108,No,No,No
+56,203,Czech Republic,131,Europe,908,127,Eastern Europe,923,128,Yes,No,No
+57,408,Democratic People's Republic of Korea,80,Asia,935,71,Eastern Asia,906,78,No,No,No
+58,180,Democratic Republic of the Congo,35,Africa,903,7,Middle Africa,911,29,No,Yes,Yes
+59,208,Denmark,141,Europe,908,127,Northern Europe,924,139,Yes,No,No
+60,262,Djibouti,11,Africa,903,7,Eastern Africa,910,8,No,Yes,Yes
+61,212,Dominica,192,Latin America and the Caribbean,904,180,Caribbean,915,181,No,No,No
+62,214,Dominican Republic,193,Latin America and the Caribbean,904,180,Caribbean,915,181,No,No,No
+63,218,Ecuador,223,Latin America and the Caribbean,904,180,South America,931,217,No,No,No
+64,818,Egypt,41,Africa,903,7,Northern Africa,912,39,No,No,No
+65,222,El Salvador,211,Latin America and the Caribbean,904,180,Central America,916,208,No,No,No
+66,226,Equatorial Guinea,36,Africa,903,7,Middle Africa,911,29,No,Yes,Yes
+67,232,Eritrea,12,Africa,903,7,Eastern Africa,910,8,No,Yes,Yes
+68,233,Estonia,142,Europe,908,127,Northern Europe,924,139,Yes,No,No
+69,231,Ethiopia,13,Africa,903,7,Eastern Africa,910,8,No,Yes,Yes
+70,234,Faeroe Islands,143,Europe,908,127,Northern Europe,924,139,Yes,No,No
+71,238,Falkland Islands (Malvinas),224,Latin America and the Caribbean,904,180,South America,931,217,No,No,No
+72,242,Fiji,243,Oceania,909,238,Melanesia,928,242,No,No,No
+73,246,Finland,144,Europe,908,127,Northern Europe,924,139,Yes,No,No
+74,250,France,173,Europe,908,127,Western Europe,926,170,Yes,No,No
+75,254,French Guiana,225,Latin America and the Caribbean,904,180,South America,931,217,No,No,No
+76,258,French Polynesia,259,Oceania,909,238,Polynesia,957,256,No,No,No
+77,266,Gabon,37,Africa,903,7,Middle Africa,911,29,No,No,Yes
+78,270,Gambia,58,Africa,903,7,Western Africa,914,53,No,Yes,Yes
+79,268,Georgia,113,Asia,935,71,Western Asia,922,108,No,No,No
+80,276,Germany,174,Europe,908,127,Western Europe,926,170,Yes,No,No
+81,288,Ghana,59,Africa,903,7,Western Africa,914,53,No,No,Yes
+82,292,Gibraltar,158,Europe,908,127,Southern Europe,925,153,Yes,No,No
+83,300,Greece,159,Europe,908,127,Southern Europe,925,153,Yes,No,No
+84,304,Greenland,235,Northern America,905,232,Northern America,905,232,Yes,No,No
+85,308,Grenada,194,Latin America and the Caribbean,904,180,Caribbean,915,181,No,No,No
+86,312,Guadeloupe,195,Latin America and the Caribbean,904,180,Caribbean,915,181,No,No,No
+87,316,Guam,249,Oceania,909,238,Micronesia,954,248,No,No,No
+88,320,Guatemala,212,Latin America and the Caribbean,904,180,Central America,916,208,No,No,No
+89,324,Guinea,60,Africa,903,7,Western Africa,914,53,No,Yes,Yes
+90,624,Guinea-Bissau,61,Africa,903,7,Western Africa,914,53,No,Yes,Yes
+91,328,Guyana,226,Latin America and the Caribbean,904,180,South America,931,217,No,No,No
+92,332,Haiti,196,Latin America and the Caribbean,904,180,Caribbean,915,181,No,Yes,No
+93,336,Holy See,160,Europe,908,127,Southern Europe,925,153,Yes,No,No
+94,340,Honduras,213,Latin America and the Caribbean,904,180,Central America,916,208,No,No,No
+95,348,Hungary,132,Europe,908,127,Eastern Europe,923,128,Yes,No,No
+96,352,Iceland,145,Europe,908,127,Northern Europe,924,139,Yes,No,No
+97,356,India,102,Asia,935,71,Southern Asia,5501,98,No,No,No
+98,360,Indonesia,89,Asia,935,71,South-Eastern Asia,920,86,No,No,No
+99,364,Iran (Islamic Republic of),103,Asia,935,71,Southern Asia,5501,98,No,No,No
+100,368,Iraq,114,Asia,935,71,Western Asia,922,108,No,No,No
+101,372,Ireland,146,Europe,908,127,Northern Europe,924,139,Yes,No,No
+102,833,Isle of Man,147,Europe,908,127,Northern Europe,924,139,Yes,No,No
+103,376,Israel,115,Asia,935,71,Western Asia,922,108,No,No,No
+104,380,Italy,161,Europe,908,127,Southern Europe,925,153,Yes,No,No
+105,388,Jamaica,197,Latin America and the Caribbean,904,180,Caribbean,915,181,No,No,No
+106,392,Japan,82,Asia,935,71,Eastern Asia,906,78,Yes,No,No
+107,400,Jordan,116,Asia,935,71,Western Asia,922,108,No,No,No
+108,398,Kazakhstan,73,Asia,935,71,Central Asia,5500,72,No,No,No
+109,404,Kenya,14,Africa,903,7,Eastern Africa,910,8,No,No,Yes
+110,296,Kiribati,250,Oceania,909,238,Micronesia,954,248,No,Yes,No
+111,414,Kuwait,117,Asia,935,71,Western Asia,922,108,No,No,No
+112,417,Kyrgyzstan,74,Asia,935,71,Central Asia,5500,72,No,No,No
+113,418,Lao People's Democratic Republic,90,Asia,935,71,South-Eastern Asia,920,86,No,Yes,No
+114,428,Latvia,148,Europe,908,127,Northern Europe,924,139,Yes,No,No
+115,422,Lebanon,118,Asia,935,71,Western Asia,922,108,No,No,No
+116,426,Lesotho,49,Africa,903,7,Southern Africa,913,47,No,Yes,Yes
+117,430,Liberia,62,Africa,903,7,Western Africa,914,53,No,Yes,Yes
+118,434,Libya,42,Africa,903,7,Northern Africa,912,39,No,No,No
+119,438,Liechtenstein,175,Europe,908,127,Western Europe,926,170,Yes,No,No
+120,440,Lithuania,149,Europe,908,127,Northern Europe,924,139,Yes,No,No
+121,442,Luxembourg,176,Europe,908,127,Western Europe,926,170,Yes,No,No
+122,450,Madagascar,15,Africa,903,7,Eastern Africa,910,8,No,Yes,Yes
+123,454,Malawi,16,Africa,903,7,Eastern Africa,910,8,No,Yes,Yes
+124,458,Malaysia,91,Asia,935,71,South-Eastern Asia,920,86,No,No,No
+125,462,Maldives,104,Asia,935,71,Southern Asia,5501,98,No,No,No
+126,466,Mali,63,Africa,903,7,Western Africa,914,53,No,Yes,Yes
+127,470,Malta,162,Europe,908,127,Southern Europe,925,153,Yes,No,No
+128,584,Marshall Islands,251,Oceania,909,238,Micronesia,954,248,No,No,No
+129,474,Martinique,198,Latin America and the Caribbean,904,180,Caribbean,915,181,No,No,No
+130,478,Mauritania,64,Africa,903,7,Western Africa,914,53,No,Yes,Yes
+131,480,Mauritius,17,Africa,903,7,Eastern Africa,910,8,No,No,Yes
+132,175,Mayotte,18,Africa,903,7,Eastern Africa,910,8,No,No,Yes
+133,484,Mexico,214,Latin America and the Caribbean,904,180,Central America,916,208,No,No,No
+134,583,Micronesia (Federated States of),252,Oceania,909,238,Micronesia,954,248,No,No,No
+135,492,Monaco,177,Europe,908,127,Western Europe,926,170,Yes,No,No
+136,496,Mongolia,84,Asia,935,71,Eastern Asia,906,78,No,No,No
+137,499,Montenegro,163,Europe,908,127,Southern Europe,925,153,Yes,No,No
+138,500,Montserrat,199,Latin America and the Caribbean,904,180,Caribbean,915,181,No,No,No
+139,504,Morocco,43,Africa,903,7,Northern Africa,912,39,No,No,No
+140,508,Mozambique,19,Africa,903,7,Eastern Africa,910,8,No,Yes,Yes
+141,104,Myanmar,92,Asia,935,71,South-Eastern Asia,920,86,No,Yes,No
+142,516,Namibia,50,Africa,903,7,Southern Africa,913,47,No,No,Yes
+143,520,Nauru,253,Oceania,909,238,Micronesia,954,248,No,No,No
+144,524,Nepal,105,Asia,935,71,Southern Asia,5501,98,No,Yes,No
+145,528,Netherlands,178,Europe,908,127,Western Europe,926,170,Yes,No,No
+146,540,New Caledonia,244,Oceania,909,238,Melanesia,928,242,No,No,No
+147,554,New Zealand,241,Oceania,909,238,Australia and New Zealand,927,239,Yes,No,No
+148,558,Nicaragua,215,Latin America and the Caribbean,904,180,Central America,916,208,No,No,No
+149,562,Niger,65,Africa,903,7,Western Africa,914,53,No,Yes,Yes
+150,566,Nigeria,66,Africa,903,7,Western Africa,914,53,No,No,Yes
+151,570,Niue,260,Oceania,909,238,Polynesia,957,256,No,No,No
+152,580,Northern Mariana Islands,254,Oceania,909,238,Micronesia,954,248,No,No,No
+153,578,Norway,150,Europe,908,127,Northern Europe,924,139,Yes,No,No
+154,512,Oman,120,Asia,935,71,Western Asia,922,108,No,No,No
+155,586,Pakistan,106,Asia,935,71,Southern Asia,5501,98,No,No,No
+156,585,Palau,255,Oceania,909,238,Micronesia,954,248,No,No,No
+157,591,Panama,216,Latin America and the Caribbean,904,180,Central America,916,208,No,No,No
+158,598,Papua New Guinea,245,Oceania,909,238,Melanesia,928,242,No,No,No
+159,600,Paraguay,227,Latin America and the Caribbean,904,180,South America,931,217,No,No,No
+160,604,Peru,228,Latin America and the Caribbean,904,180,South America,931,217,No,No,No
+161,608,Philippines,93,Asia,935,71,South-Eastern Asia,920,86,No,No,No
+162,616,Poland,133,Europe,908,127,Eastern Europe,923,128,Yes,No,No
+163,620,Portugal,164,Europe,908,127,Southern Europe,925,153,Yes,No,No
+164,630,Puerto Rico,200,Latin America and the Caribbean,904,180,Caribbean,915,181,No,No,No
+165,634,Qatar,121,Asia,935,71,Western Asia,922,108,No,No,No
+166,410,Republic of Korea,85,Asia,935,71,Eastern Asia,906,78,No,No,No
+167,498,Republic of Moldova,134,Europe,908,127,Eastern Europe,923,128,Yes,No,No
+168,638,Réunion,20,Africa,903,7,Eastern Africa,910,8,No,No,Yes
+169,642,Romania,135,Europe,908,127,Eastern Europe,923,128,Yes,No,No
+170,643,Russian Federation,136,Europe,908,127,Eastern Europe,923,128,Yes,No,No
+171,646,Rwanda,21,Africa,903,7,Eastern Africa,910,8,No,Yes,Yes
+172,654,Saint Helena,67,Africa,903,7,Western Africa,914,53,No,No,Yes
+173,659,Saint Kitts and Nevis,201,Latin America and the Caribbean,904,180,Caribbean,915,181,No,No,No
+174,662,Saint Lucia,202,Latin America and the Caribbean,904,180,Caribbean,915,181,No,No,No
+175,666,Saint Pierre and Miquelon,236,Northern America,905,232,Northern America,905,232,Yes,No,No
+176,670,Saint Vincent and the Grenadines,203,Latin America and the Caribbean,904,180,Caribbean,915,181,No,No,No
+177,882,Samoa,261,Oceania,909,238,Polynesia,957,256,No,No,No
+178,674,San Marino,165,Europe,908,127,Southern Europe,925,153,Yes,No,No
+179,678,Sao Tome and Principe,38,Africa,903,7,Middle Africa,911,29,No,Yes,Yes
+180,682,Saudi Arabia,122,Asia,935,71,Western Asia,922,108,No,No,No
+181,686,Senegal,68,Africa,903,7,Western Africa,914,53,No,Yes,Yes
+182,688,Serbia,166,Europe,908,127,Southern Europe,925,153,Yes,No,No
+183,690,Seychelles,22,Africa,903,7,Eastern Africa,910,8,No,No,Yes
+184,694,Sierra Leone,69,Africa,903,7,Western Africa,914,53,No,Yes,Yes
+185,702,Singapore,94,Asia,935,71,South-Eastern Asia,920,86,No,No,No
+186,534,Sint Maarten (Dutch part),204,Latin America and the Caribbean,904,180,Caribbean,915,181,No,No,No
+187,703,Slovakia,137,Europe,908,127,Eastern Europe,923,128,Yes,No,No
+188,705,Slovenia,167,Europe,908,127,Southern Europe,925,153,Yes,No,No
+189,90,Solomon Islands,246,Oceania,909,238,Melanesia,928,242,No,Yes,No
+190,706,Somalia,23,Africa,903,7,Eastern Africa,910,8,No,Yes,Yes
+191,710,South Africa,51,Africa,903,7,Southern Africa,913,47,No,No,Yes
+192,728,South Sudan,24,Africa,903,7,Eastern Africa,910,8,No,Yes,Yes
+193,724,Spain,168,Europe,908,127,Southern Europe,925,153,Yes,No,No
+194,144,Sri Lanka,107,Asia,935,71,Southern Asia,5501,98,No,No,No
+195,275,State of Palestine,119,Asia,935,71,Western Asia,922,108,No,No,No
+196,729,Sudan,44,Africa,903,7,Northern Africa,912,39,No,Yes,Yes
+197,740,Suriname,229,Latin America and the Caribbean,904,180,South America,931,217,No,No,No
+198,748,Swaziland,52,Africa,903,7,Southern Africa,913,47,No,No,Yes
+199,752,Sweden,151,Europe,908,127,Northern Europe,924,139,Yes,No,No
+200,756,Switzerland,179,Europe,908,127,Western Europe,926,170,Yes,No,No
+201,760,Syrian Arab Republic,123,Asia,935,71,Western Asia,922,108,No,No,No
+202,762,Tajikistan,75,Asia,935,71,Central Asia,5500,72,No,No,No
+203,764,Thailand,95,Asia,935,71,South-Eastern Asia,920,86,No,No,No
+204,807,The former Yugoslav Republic of Macedonia,169,Europe,908,127,Southern Europe,925,153,Yes,No,No
+205,626,Timor-Leste,96,Asia,935,71,South-Eastern Asia,920,86,No,Yes,No
+206,768,Togo,70,Africa,903,7,Western Africa,914,53,No,Yes,Yes
+207,772,Tokelau,262,Oceania,909,238,Polynesia,957,256,No,No,No
+208,776,Tonga,263,Oceania,909,238,Polynesia,957,256,No,No,No
+209,780,Trinidad and Tobago,205,Latin America and the Caribbean,904,180,Caribbean,915,181,No,No,No
+210,788,Tunisia,45,Africa,903,7,Northern Africa,912,39,No,No,No
+211,792,Turkey,124,Asia,935,71,Western Asia,922,108,No,No,No
+212,795,Turkmenistan,76,Asia,935,71,Central Asia,5500,72,No,No,No
+213,796,Turks and Caicos Islands,206,Latin America and the Caribbean,904,180,Caribbean,915,181,No,No,No
+214,798,Tuvalu,264,Oceania,909,238,Polynesia,957,256,No,Yes,No
+215,800,Uganda,25,Africa,903,7,Eastern Africa,910,8,No,Yes,Yes
+216,804,Ukraine,138,Europe,908,127,Eastern Europe,923,128,Yes,No,No
+217,784,United Arab Emirates,125,Asia,935,71,Western Asia,922,108,No,No,No
+218,826,United Kingdom of Great Britain and Northern Ireland,152,Europe,908,127,Northern Europe,924,139,Yes,No,No
+219,834,United Republic of Tanzania,26,Africa,903,7,Eastern Africa,910,8,No,Yes,Yes
+220,840,United States of America,237,Northern America,905,232,Northern America,905,232,Yes,No,No
+221,850,United States Virgin Islands,207,Latin America and the Caribbean,904,180,Caribbean,915,181,No,No,No
+222,858,Uruguay,230,Latin America and the Caribbean,904,180,South America,931,217,No,No,No
+223,860,Uzbekistan,77,Asia,935,71,Central Asia,5500,72,No,No,No
+224,548,Vanuatu,247,Oceania,909,238,Melanesia,928,242,No,Yes,No
+225,862,Venezuela (Bolivarian Republic of),231,Latin America and the Caribbean,904,180,South America,931,217,No,No,No
+226,704,Viet Nam,97,Asia,935,71,South-Eastern Asia,920,86,No,No,No
+227,876,Wallis and Futuna Islands,265,Oceania,909,238,Polynesia,957,256,No,No,No
+228,732,Western Sahara,46,Africa,903,7,Northern Africa,912,39,No,No,No
+229,887,Yemen,126,Asia,935,71,Western Asia,922,108,No,Yes,No
+230,894,Zambia,27,Africa,903,7,Eastern Africa,910,8,No,Yes,Yes
+231,716,Zimbabwe,28,Africa,903,7,Eastern Africa,910,8,No,No,Yes
