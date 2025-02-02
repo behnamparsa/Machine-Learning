@@ -20,8 +20,9 @@ def entropy(X,bins):
     binned_dist = np.histogram(X, bins)[0]
     #print(binned_dist)
     probs = binned_dist/np.sum(binned_dist)
-    #print(probs)
+    print(probs)
     probs = probs[probs>0]
+    print(probs)
     entropy = -np.sum(probs*np.log2(probs)) 
     return entropy
     

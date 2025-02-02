@@ -35,7 +35,7 @@ class NodeDecisionTree():
     def best_feature_to_split(self):
         """Find the best feature to split the data at this node based on information gain.
 
-        Information gain is defined as IG(S,A) = H(S) - sum(v/S)*(H(Sv)) where S is 
+        Information gain is defined as IG(S,A) = H(S) - (sum(v/S)*H(Sv)) where S is 
         a set of examples, A is an attribute or feature,
         v is a possible value for A,
         Sv is a subset of S with A=v,
@@ -48,6 +48,7 @@ class NodeDecisionTree():
         """
         results = []
         for c in self.features.columns:
+            
             entropy_after_split = 0
             for value, ratio in self.features[c].value_counts(normalize=True).to_dict().items():
                 entropy_after_split += self.entropy_score(self.target.loc[self.features[c]==value]) * ratio
@@ -107,21 +108,25 @@ root = NodeDecisionTree(features, target)
 root.split()   
 
 
+
+
+
+
 # Random Forest Molel fitting
 
-from sklearn.ensemble import RandomForestClassifier
-from sklearn.model_selection import train_test_split
+#from sklearn.ensemble import RandomForestClassifier
+#from sklearn.model_selection import train_test_split
 
 # Convert categorical variables to numerical using one-hot encoding
-features_categorical = pd.get_dummies(features, drop_first=True)
+#features_categorical = pd.get_dummies(features, drop_first=True)
 
-X_train, X_test, y_train, y_test = train_test_split(features_categorical, target, test_size=0.2, random_state=42)
+#X_train, X_test, y_train, y_test = train_test_split(features_categorical, target, test_size=0.2, random_state=42)
 
-rf = RandomForestClassifier(n_estimators=2000, random_state=42)
+#rf = RandomForestClassifier(n_estimators=2000, random_state=42)
 
-rf.fit(X_train, y_train)
+#rf.fit(X_train, y_train)
 
 # Random Forest Model Evaluation
-y_pred = rf.predict(X_test)
-accuracy = (y_pred == y_test).mean()
-print(f"Accuracy: {accuracy:.3f}")
+#y_pred = rf.predict(X_test)
+#accuracy = (y_pred == y_test).mean()
+#print(f"Accuracy: {accuracy:.3f}")
