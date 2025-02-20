@@ -81,7 +81,8 @@ ages = pd.Series(
     [25, 30, 35, 40, 45, 25, 30], 
     index=['Alice', 'Bob', 'Charlie', 'David', 'Eve', 'Alice', 'Bob']
 )
-print(ages.index)
+print("Original Series with Duplicate Indices:")
+print(ages)
 
-for index in ages.index:
-        print(ages[index])
+ages = ages.reset_index(drop = True)
+print(ages)

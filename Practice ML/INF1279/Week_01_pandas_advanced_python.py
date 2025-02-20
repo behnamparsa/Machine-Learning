@@ -14,7 +14,7 @@ class Animal:
             return "I am an unknown species!"
 
     def sound(self):
-      pass
+      print("do nothing")
 
 class Dog(Animal):
     def __init__(self, name, breed, fur_color):
@@ -27,5 +27,5 @@ class Dog(Animal):
 
 dog = Dog("Fido", "Labrador", "brown")
 
-#print(dog.classify())
+print(dog.classify())
 print(dog.sound())
