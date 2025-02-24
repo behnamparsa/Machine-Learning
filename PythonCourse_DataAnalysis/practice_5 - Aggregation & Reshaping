@@ -1,0 +1,70 @@
+import pandas as pd
+premier_league = pd.read_excel('.\PythonCourse_DataAnalysis\project_data\premier_league_games_full.xlsx')
+print(premier_league.head())
+retail_df = pd.read_csv(r"C:\GitHub\Machine-Learning\PythonCourse_DataAnalysis\project_data\retail.csv")
+print(retail_df.head())
+print()
+print(retail_df.groupby('family')[['sales']].sum().head())
+
+print(
+    premier_league.groupby('HomeTeam')[['HomeGoals']].mean().sort_values("HomeGoals", ascending= False)
+)
+
+transactions = pd.read_csv(r".\PythonCourse_DataAnalysis\project_data\transactions.csv")
+print(
+transactions.groupby('store_nbr')[['transactions']].sum().sort_values('transactions',ascending=False).iloc[:10]
+)
+
+print(retail_df.head())
+print(
+retail_df.groupby(['family','store_nbr'])[['sales']].sum()
+)
+print(
+    premier_league.groupby(['season','HomeTeam'],as_index= False)[['HomeGoals']].sum().query("HomeTeam == 'Arsenal'")
+    )
+
+print(transactions.head())
+
+transactions["month"] = transactions["date"].str[5:7].astype('int8')
+
+print(
+    transactions.groupby(['store_nbr','month'])[['transactions']].sum().sort_values(['month','transactions'],ascending=[True,False])
+    )
+
+
+print(premier_league
+.groupby(['season','HomeTeam'],as_index=False)
+.agg(home_goal_sum = ("HomeGoals","sum"),
+     away_goal_sum = ("AwayGoals","sum"))
+)
+
+pm = premier_league.assign(
+    avg_team_goals = premier_league.groupby("HomeTeam")["HomeGoals"].transform("mean"),
+    difference = lambda x : x["HomeGoals"] - x["avg_team_goals"]
+
+)
+print(pm)
+print(
+    pm.groupby(["HomeTeam","AwayTeam"]).agg({"difference":"mean"}).sort_values("difference")
+)
+
+pm =pm.query("HomeTeam == 'Arsenal' and AwayTeam == 'Blackpool'")
+
+print()
+
+pm = premier_league.query("HomeTeam in ['Arsenal','Chelsea','Everton']").pivot_table(index="HomeTeam",
+                           columns = "season",
+                           values = "HomeGoals",
+                           aggfunc= "mean")
+                           #margins=True)#.style.background_gradient(cmap= "RdYlGn", axis= 1)
+
+
+print(pm)
+
+print(
+pm.reset_index().melt(
+    id_vars= "HomeTeam",
+    value_vars = ['2009/2010','2011/2012','2015/2016'],
+    var_name= "season",
+    value_name= "HomeGaols_avg"
+))
