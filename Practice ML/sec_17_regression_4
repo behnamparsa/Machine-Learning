@@ -1,0 +1,45 @@
+import pandas as pd
+import matplotlib.pyplot as plt
+import numpy as np
+from sklearn.model_selection import train_test_split
+import statsmodels.api as sm
+import statsmodels.formula.api as smf
+
+
+def main():
+    df = pd.read_csv(r"C:\GitHub\PythonCourse\17-Regression\grapes.csv")
+    print(df.head())
+
+    x = df["diameter"]
+    X = sm.add_constant(df["diameter"])
+    
+    y_actual = df['weight']
+    model = sm.OLS(y_actual, X)
+    result = model.fit()
+    intercept = result.params[0]
+    gradient = result.params[1]
+    y_predicted = intercept + gradient * x
+
+    #model_2 = sm.OLS(endog=x,exog=y_actual) # model through origin
+    #result = model_2.fit()
+    #gradient = result.params[0]
+    print("gradient: ",gradient)
+    #y_predicted = gradient * x
+
+    print(result.summary())
+    
+    
+    print("y_atual: ",y_actual)
+    print("y_predict", y_predicted)
+    print("X: ",x)
+    
+    fig = plt.figure(figsize = (16,9))
+    ax = fig.add_subplot()
+    ax.scatter(x, y_actual, color = 'red') # ax.plot(df[index], y_actual) 
+    ax.plot(x, y_predicted, color = 'blue')
+
+    plt.show()
+
+
+if __name__ == "__main__":
+    main()

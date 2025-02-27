@@ -1,0 +1,45 @@
+import pandas as pd
+import matplotlib.pyplot as plt
+import numpy as np
+from sklearn.model_selection import train_test_split
+from sklearn.linear_model import LinearRegression
+from sklearn.metrics import r2_score
+
+
+def main():
+    df = pd.read_csv(r"C:\GitHub\PythonCourse\17-Regression\grapes.csv")
+    print(df.head())
+
+    fig = plt.figure(figsize = (16,9))
+    ax = fig.add_subplot()
+    ax.set_xlabel("length")
+    ax.set_ylabel("weight")
+    #plt.scatter(df["length"], df["weight"])
+    #plt.scatter(df["diameter"], df["weight"])
+    
+
+    print(np.corrcoef(df["weight"],df["length"]))
+    print(np.corrcoef(df["weight"],df["diameter"]))
+
+    (x_train, x_test, y_train, y_test) = train_test_split(df["diameter"], df["weight"], shuffle= True, train_size= 0.7)
+
+    X_train = [[n] for n in x_train]
+    X_test = [[n] for n in x_test]
+
+    model = LinearRegression()
+    model.fit(X_train,y_train)
+
+    y_predicted = model.predict(X_test)
+
+    ax.scatter(X_train,y_train, color = 'blue')
+    ax.plot(X_test,y_predicted, color = 'red')
+    ax.scatter(X_test,y_test, color = 'blue')
+
+    r2 = r2_score(y_test,y_predicted)
+    print("model R Square: ",r2)
+    
+    plt.show()
+    
+
+if __name__ == "__main__":
+    main()
