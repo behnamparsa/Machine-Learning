@@ -1,2 +1,6 @@
 #update the local folder:
 git fetch origin 
+
+
+
+tensorboard --logdir=lightning_logs/
