@@ -1,0 +1,6 @@
+#update the local folder:
+git fetch origin 
+
+.\.venv\Scripts\activate
+
+tensorboard --logdir=lightning_logs/

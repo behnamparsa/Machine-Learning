@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "PythonCourse",
+			"path": "../PythonCourse"
+		},
+		{
+			"name": "Python-and-ML---Active",
+			"path": "../Python-and-ML---Active"
+		}
+	],
+	"settings": {},
+	"launch": {
+		"version": "0.2.0",
+		"configurations": []
+	}
+}
