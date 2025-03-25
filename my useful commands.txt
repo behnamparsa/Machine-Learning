@@ -2,5 +2,10 @@
 git fetch origin 
 
 .\.venv\Scripts\activate
+.\venv\Scripts\Activate.ps1
+
+if above code gave error:
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
+
 
 tensorboard --logdir=lightning_logs/
